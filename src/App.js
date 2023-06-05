@@ -6,8 +6,7 @@ import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import About from './components/About';
 import {Routes, Route} from 'react-router-dom';
-import './App.css';
-
+import './App.css'
 
 function App() {
   return (
