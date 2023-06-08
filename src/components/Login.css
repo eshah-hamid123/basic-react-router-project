@@ -1,0 +1,73 @@
+.main { 
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-color: rgb(252, 252, 252);
+}
+
+.sub-main {
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 70px;
+    border-radius: 60px;
+    background-color: #fff;
+}
+
+.container-title {
+    /* padding-bottom:20px; */
+    margin-bottom: 30px;
+    padding-left: 600%;
+    font-size: 30px;
+}
+/* .user {
+    padding-top: 70px;
+    padding-left: 30%;
+} */
+
+input {
+    width: 300px;
+    height:50px;
+    border-radius: 60px;
+    box-shadow:inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+/* .input-box {
+    padding-top: 30%;
+    /* padding-right: 25%; */
+   /* padding-left: 25%;
+}
+
+.input-box2 {
+    padding-top: 50%;
+    padding-right: 150px;  
+} */
+
+button {
+    width: 380px;
+    height: 500px;
+    border-radius: 60px;
+    background-color: rgb(200, 65, 65);
+    color:white;
+    font-size: 25px;
+    border: none;
+    padding: 10px 20px;
+}
+
+/* .login-button {
+    padding-top: 25px;
+   
+}  */
+
+
+
+
