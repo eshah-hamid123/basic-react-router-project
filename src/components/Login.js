@@ -10,28 +10,27 @@ function Login() {
     <div className="main">
       <div className="sub-main">
         <div>
-          <div className="container-title">
-            <h1>The 11'z</h1>
+          <div>
+            <h1 className="company-name">The 11'z</h1>
           </div>
-        </div>
-        <br />
-        <div className="input-box">
-          <input
-            type="text"
-            placeholder="Enter Username"
-            className="username"
-          />
-        </div>
+          <div className="input-box">
+            <input
+              type="text"
+              placeholder="Enter Username"
+              className="username"
+            />
+          </div>
 
-        <div className="input-box2">
-          <input
-            type="text"
-            placeholder="Enter Password"
-            className="username"
-          />
-        </div>
-        <div>
-          <button onClick={handleLogin}>Login</button>
+          <div className="input-box2">
+            <input
+              type="text"
+              placeholder="Enter Password"
+              className="username"
+            />
+          </div>
+          <div className="button-div">
+            <button className="login-button" onClick={handleLogin}>Login</button>
+          </div>
         </div>
       </div>
     </div>

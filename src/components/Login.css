@@ -17,17 +17,6 @@
     background-color: #fff;
 }
 
-.container-title {
-    /* padding-bottom:20px; */
-    margin-bottom: 30px;
-    padding-left: 600%;
-    font-size: 30px;
-}
-/* .user {
-    padding-top: 70px;
-    padding-left: 30%;
-} */
-
 input {
     width: 300px;
     height:50px;
@@ -41,20 +30,27 @@ input {
 
 }
 
-/* .input-box {
-    padding-top: 30%;
-    /* padding-right: 25%; */
-   /* padding-left: 25%;
+.username {
+    padding-left : 70px;
+    font-size: 20px;
+}
+.input-box {
+    padding-top: 50px;
 }
 
-.input-box2 {
-    padding-top: 50%;
-    padding-right: 150px;  
-} */
 
+
+.input-box2 {
+    padding-top: 20px;
+} 
+
+.company-name {
+    color:  rgb(200, 65, 65);
+    font-size: 70px;
+}
 button {
-    width: 380px;
-    height: 500px;
+    width: 280px;
+    height: 50px;
     border-radius: 60px;
     background-color: rgb(200, 65, 65);
     color:white;
@@ -63,10 +59,15 @@ button {
     padding: 10px 20px;
 }
 
-/* .login-button {
-    padding-top: 25px;
+.login-button {
+    border-radius: 60px;
+    
    
-}  */
+} 
+
+.button-div {
+    padding-top: 15px;
+}
 
 
 

@@ -8,3 +8,17 @@
         width: 95vw;
     } 
 }
+
+button {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(200, 65, 65);
+    color:white;
+    font-size: 25px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.submit-button {
+    border-radius: 10px;
+}

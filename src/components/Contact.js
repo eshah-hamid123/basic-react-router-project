@@ -6,7 +6,6 @@ function Contact() {
     <div>
       <NavBar
         brandName="The 11's"
-        title1="Pricing"
         title2="Contact"
         title3="About Us"
       />
@@ -53,7 +52,7 @@ function Contact() {
               <textarea className="form-control" id="query" > </textarea>
             </div>
             <div className="d-grid">
-            <button type="submit" className="btn btn-primary">
+            <button type="submit" className="submit-button">
               Submit
             </button>  
             </div>
